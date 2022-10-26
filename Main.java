@@ -174,3 +174,10 @@ public class Main {
 
     }
 }
+/*
+ * @author supunsathsara (supunsathsara.com)
+ * 
+ * @version 1.0
+ * 
+ * @since 2022/10/26
+ */
